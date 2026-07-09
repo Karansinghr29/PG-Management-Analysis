@@ -1,0 +1,3 @@
+segment,tenure_months,total_billed,avg_rent,unpaid_ratio,invoices,ltv_paid,n_tenants
+0,5.0,67855.0,11367.1,0.2,4.9,58378.1,757
+1,22.4,355823.8,15037.0,0.1,21.6,324760.6,139

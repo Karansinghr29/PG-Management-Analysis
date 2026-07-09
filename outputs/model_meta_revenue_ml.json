@@ -1,0 +1,31 @@
+{
+  "primary_model": "TimeSeries (Holt-Winters / seasonal-naive) \u2014 unchanged",
+  "ml_model": "LinearRegression",
+  "features": [
+    "rev_lag1",
+    "rev_lag2",
+    "rev_lag3",
+    "rev_lag12",
+    "rev_roll3_lag",
+    "tenants_lag1",
+    "month_num",
+    "year"
+  ],
+  "n_features": 8,
+  "n_train_months_total": 28,
+  "n_test_months": 12,
+  "validation": "chronological expanding-window walk-forward (one-step)",
+  "excluded_leakage_features": [
+    "arpu",
+    "revenue_roll3",
+    "revenue_mom",
+    "contemporaneous active_tenants/collection_rate/units/electricity_billed"
+  ],
+  "winner": "LinearRegression",
+  "ts_mape": 8.13,
+  "ml_mape": 4.81,
+  "ml_next_month_revenue": 2920773.1,
+  "trained_at": "2026-07-08 12:52 UTC",
+  "training_duration_sec": 7.5,
+  "model_version": "v20260708.1252"
+}

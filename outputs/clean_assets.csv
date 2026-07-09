@@ -1,0 +1,1701 @@
+asset_code,serial_number,brand,model,asset_type,category,purchase_date,purchase_price,condition,status
+VH-AC-B22-0004,BCX0P9AM700137B,Samsung,AR12RG3BAWKNNA,Air Conditioner,Appliances,,,good,allocated
+VH-WM-GEN-0005,,,Voltas WTL600UEA 6kg,Washing Machine,Appliances,2024-03-26 00:00:00+00:00,12542.37,good,inventory
+VH-WM-GEN-0004,,,Voltas WTL600UEA 6kg,Washing Machine,Appliances,2024-03-26 00:00:00+00:00,12542.37,good,inventory
+VH-WM-GEN-0003,,,Voltas WTL65UPSC 6.5kg,Washing Machine,Appliances,2023-08-31 00:00:00+00:00,13474.58,good,inventory
+VH-WM-GEN-0002,,,Samsung WA70A4002GS/TL 7kg,Washing Machine,Appliances,2024-08-02 00:00:00+00:00,15097.0,good,inventory
+VH-WM-GEN-0001,,,Samsung WA70A4002GS/TL 7kg,Washing Machine,Appliances,2024-10-05 00:00:00+00:00,15290.0,good,inventory
+VH-WD-GEN-0016,,,Double Door Wardrobe,Wardrobe,Furniture,2024-03-28 00:00:00+00:00,6000.0,good,inventory
+VH-WD-GEN-0015,,,Single Door Wardrobe,Wardrobe,Furniture,2024-03-28 00:00:00+00:00,4950.0,good,inventory
+VH-WD-GEN-0014,,,Single Door Wardrobe,Wardrobe,Furniture,2024-03-28 00:00:00+00:00,4950.0,good,inventory
+VH-WD-GEN-0013,,,Single Door Wardrobe,Wardrobe,Furniture,2024-03-28 00:00:00+00:00,4950.0,good,inventory
+VH-WD-GEN-0012,,,Single Door Wardrobe,Wardrobe,Furniture,2024-03-28 00:00:00+00:00,4950.0,good,inventory
+VH-WD-GEN-0011,,,Single Door Wardrobe,Wardrobe,Furniture,2024-03-28 00:00:00+00:00,4950.0,good,inventory
+VH-WD-GEN-0010,,,Single Door Wardrobe,Wardrobe,Furniture,2024-03-28 00:00:00+00:00,4950.0,good,inventory
+VH-WD-GEN-0009,,,Single Door Wardrobe,Wardrobe,Furniture,2024-03-28 00:00:00+00:00,4950.0,good,inventory
+VH-WD-GEN-0008,,,Single Door Wardrobe,Wardrobe,Furniture,2024-03-28 00:00:00+00:00,4950.0,good,inventory
+VH-WD-GEN-0007,,,Two Door Wardrobe,Wardrobe,Furniture,2023-08-24 00:00:00+00:00,6000.0,good,inventory
+VH-WD-GEN-0006,,,Two Door Wardrobe,Wardrobe,Furniture,2023-08-24 00:00:00+00:00,6000.0,good,inventory
+VH-WD-GEN-0005,,,Two Door Wardrobe,Wardrobe,Furniture,2023-08-24 00:00:00+00:00,6000.0,good,inventory
+VH-WD-GEN-0004,,,Two Door Wardrobe,Wardrobe,Furniture,2023-08-24 00:00:00+00:00,6000.0,good,inventory
+VH-WD-GEN-0003,,,Two Door Wardrobe,Wardrobe,Furniture,2023-08-24 00:00:00+00:00,6000.0,good,inventory
+VH-WD-GEN-0002,,,Two Door Wardrobe,Wardrobe,Furniture,2023-08-24 00:00:00+00:00,6000.0,good,inventory
+VH-WD-GEN-0001,,,Two Door Wardrobe,Wardrobe,Furniture,2023-08-24 00:00:00+00:00,6000.0,good,inventory
+VH-ST-GEN-0022,,,Office Table,Study Table,Furniture,2023-05-02 00:00:00+00:00,3850.0,good,inventory
+VH-ST-GEN-0021,,,Office Table,Study Table,Furniture,2023-05-02 00:00:00+00:00,3850.0,good,inventory
+VH-ST-GEN-0020,,,Office Table,Study Table,Furniture,2023-05-02 00:00:00+00:00,3850.0,good,inventory
+VH-ST-GEN-0019,,,Office Table,Study Table,Furniture,2023-05-02 00:00:00+00:00,3850.0,good,inventory
+VH-ST-GEN-0018,,,Office Table,Study Table,Furniture,2023-05-02 00:00:00+00:00,3850.0,good,inventory
+VH-ST-GEN-0017,,,Office Table,Study Table,Furniture,2023-05-02 00:00:00+00:00,3850.0,good,inventory
+VH-ST-GEN-0016,,,Study Desk,Study Table,Furniture,2024-04-04 00:00:00+00:00,2700.0,good,inventory
+VH-ST-GEN-0015,,,Study Desk,Study Table,Furniture,2024-04-04 00:00:00+00:00,2700.0,good,inventory
+VH-ST-GEN-0014,,,Study Desk,Study Table,Furniture,2024-04-04 00:00:00+00:00,2700.0,good,inventory
+VH-ST-GEN-0013,,,Study Desk,Study Table,Furniture,2024-04-04 00:00:00+00:00,2700.0,good,inventory
+VH-ST-GEN-0012,,,Study Desk,Study Table,Furniture,2024-04-04 00:00:00+00:00,2700.0,good,inventory
+VH-ST-GEN-0011,,,Study Desk,Study Table,Furniture,2024-04-04 00:00:00+00:00,2700.0,good,inventory
+VH-ST-GEN-0010,,,Study Desk,Study Table,Furniture,2023-08-25 00:00:00+00:00,2150.0,good,inventory
+VH-ST-GEN-0009,,,Study Desk,Study Table,Furniture,2023-08-25 00:00:00+00:00,2150.0,good,inventory
+VH-ST-GEN-0008,,,Study Desk,Study Table,Furniture,2023-08-25 00:00:00+00:00,2150.0,good,inventory
+VH-ST-GEN-0007,,,Study Desk,Study Table,Furniture,2023-08-10 00:00:00+00:00,2150.0,good,inventory
+VH-ST-GEN-0006,,,Study Desk,Study Table,Furniture,2023-08-10 00:00:00+00:00,2150.0,good,inventory
+VH-ST-GEN-0005,,,Study Desk,Study Table,Furniture,2023-08-10 00:00:00+00:00,2150.0,good,inventory
+VH-ST-GEN-0004,,,Study Desk,Study Table,Furniture,2023-08-10 00:00:00+00:00,2150.0,good,inventory
+VH-ST-GEN-0003,,,Study Desk,Study Table,Furniture,2023-08-10 00:00:00+00:00,2150.0,good,inventory
+VH-ST-GEN-0002,,,,Study Table,Furniture,2024-10-23 00:00:00+00:00,3150.0,good,inventory
+VH-ST-GEN-0001,,,,Study Table,Furniture,2024-10-23 00:00:00+00:00,3150.0,good,inventory
+VH-SF-GEN-0008,,,3 Seater Sofa Regular Module Upholstery,Sofa,Furniture,2023-04-01 00:00:00+00:00,13500.0,good,inventory
+VH-SF-GEN-0007,,,3 Seater Sofa Regular Module Upholstery,Sofa,Furniture,2023-04-01 00:00:00+00:00,13500.0,good,inventory
+VH-SF-GEN-0006,,,Single Seater Sofa,Sofa,Furniture,2024-03-29 00:00:00+00:00,5096.66,good,inventory
+VH-SF-GEN-0005,,,Two Seater Sofa,Sofa,Furniture,2024-03-28 00:00:00+00:00,7500.0,good,inventory
+VH-SF-GEN-0004,,,3 Seater Sofa,Sofa,Furniture,2024-03-26 00:00:00+00:00,9000.0,good,inventory
+VH-SF-GEN-0003,,,Two Seater Sofa,Sofa,Furniture,2023-09-06 00:00:00+00:00,7500.0,good,inventory
+VH-SF-GEN-0002,,,Three Seater Foam Sofa,Sofa,Furniture,2023-08-31 00:00:00+00:00,9000.0,good,inventory
+VH-SF-GEN-0001,,,Three Seater Foam Sofa,Sofa,Furniture,2023-08-24 00:00:00+00:00,9000.0,good,inventory
+VH-RF-GEN-0002,,,Samsung 183L 3★ Digital Inverter,Refrigerator,Appliances,2024-08-02 00:00:00+00:00,15290.0,good,inventory
+VH-RF-GEN-0001,,,Samsung 183L 3★ Digital Inverter,Refrigerator,Appliances,2024-10-05 00:00:00+00:00,14990.0,good,inventory
+VH-PL-GEN-0020,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0019,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0018,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0017,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0016,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0015,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0014,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0013,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0012,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0011,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0010,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0009,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0008,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0007,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0006,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0005,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0004,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0003,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0002,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-PL-GEN-0001,,,Duroflex SNUGGLEPILLOW,Pillow,Soft Furnishing,2025-08-07 00:00:00+00:00,200.0,good,inventory
+VH-MW-GEN-0003,,,Voltas Bekko MS17WM 17L,Microwave Oven,Appliances,2023-08-31 00:00:00+00:00,4575.42,good,inventory
+VH-MW-GEN-0002,,,Panasonic NN-SM25JBFDG 20L Black,Microwave Oven,Appliances,2024-08-02 00:00:00+00:00,5390.0,good,inventory
+VH-MW-GEN-0001,,,Panasonic NN-SM25JBFDG 20L Black,Microwave Oven,Appliances,2024-10-08 00:00:00+00:00,5440.0,good,inventory
+VH-MA-GEN-0030,,,Ortho Foam Mattress 72x36x6,Mattress,Furniture,2025-04-16 00:00:00+00:00,3813.56,good,inventory
+VH-MA-GEN-0029,,,Ortho Foam Mattress 72x36x6,Mattress,Furniture,2025-04-16 00:00:00+00:00,3813.56,good,inventory
+VH-MA-GEN-0028,,,Ortho Foam Mattress 72x36x6,Mattress,Furniture,2025-04-16 00:00:00+00:00,3813.56,good,inventory
+VH-MA-GEN-0027,,,Ortho Foam Mattress 72x36x6,Mattress,Furniture,2025-04-16 00:00:00+00:00,3813.56,good,inventory
+VH-MA-GEN-0026,,,Ortho Foam Mattress 72x36x6,Mattress,Furniture,2025-04-16 00:00:00+00:00,3813.56,good,inventory
+VH-MA-GEN-0025,,,Ortho Foam Mattress 75x36x6,Mattress,Furniture,2024-03-29 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0024,,,Ortho Foam Mattress 75x36x6,Mattress,Furniture,2024-03-29 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0023,,,Ortho Foam Mattress 75x36x6,Mattress,Furniture,2024-03-29 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0022,,,Ortho Foam Mattress 75x36x6,Mattress,Furniture,2024-03-29 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0021,,,Ortho Foam Mattress 75x36x6,Mattress,Furniture,2024-03-29 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0020,,,Ortho Foam Mattress 75x36x6,Mattress,Furniture,2024-03-29 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0019,,,Ortho Foam Mattress 75x36x6,Mattress,Furniture,2024-03-29 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0018,,,Ortho Foam Mattress 75x36x6,Mattress,Furniture,2024-03-29 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0017,,,Ortho Foam Mattress 75x36x6,Mattress,Furniture,2024-03-29 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0016,,,Ortho Foam Mattress 75x36x6,Mattress,Furniture,2024-03-29 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0015,,,Ortho Foam Mattress,Mattress,Furniture,2024-03-26 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0014,,,Ortho Foam Mattress,Mattress,Furniture,2024-03-26 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0013,,,Ortho Foam Mattress,Mattress,Furniture,2024-03-26 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0012,,,Ortho Foam Mattress,Mattress,Furniture,2024-03-26 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0011,,,Ortho Foam Mattress,Mattress,Furniture,2024-03-26 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0010,,,Ortho Foam Mattress,Mattress,Furniture,2024-03-26 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0009,,,Ortho Foam Mattress,Mattress,Furniture,2024-03-26 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0008,,,Ortho Foam Mattress,Mattress,Furniture,2024-03-26 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0007,,,Ortho Foam Mattress,Mattress,Furniture,2024-03-26 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0006,,,Ortho Foam Mattress,Mattress,Furniture,2024-03-26 00:00:00+00:00,3983.05,good,inventory
+VH-MA-GEN-0005,,,72*36 Duroflex Foam Bed,Mattress,Furniture,2024-10-23 00:00:00+00:00,4700.0,good,inventory
+VH-MA-GEN-0004,,,72*36 Duroflex Foam Bed,Mattress,Furniture,2024-10-23 00:00:00+00:00,4700.0,good,inventory
+VH-MA-GEN-0003,,,72*36 Duroflex Foam Bed,Mattress,Furniture,2024-10-23 00:00:00+00:00,4700.0,good,inventory
+VH-MA-GEN-0002,,,72*36 Duroflex Foam Bed,Mattress,Furniture,2024-10-23 00:00:00+00:00,4700.0,good,inventory
+VH-MA-GEN-0001,,,72*36 Duroflex Foam Bed,Mattress,Furniture,2024-10-23 00:00:00+00:00,4700.0,good,inventory
+VH-IS-GEN-0001,,,Impex Omega H6A DX 2000W,Induction Stove,Appliances,2023-08-31 00:00:00+00:00,1677.97,good,inventory
+VH-DT-GEN-0020,,,D-Max Chair Red Black Dining,Dining Table,Furniture,2024-04-03 00:00:00+00:00,1590.0,good,inventory
+VH-DT-GEN-0019,,,D-Max Chair Red Black Dining,Dining Table,Furniture,2024-04-03 00:00:00+00:00,1590.0,good,inventory
+VH-DT-GEN-0018,,,D-Max Chair Red Black Dining,Dining Table,Furniture,2024-04-03 00:00:00+00:00,1590.0,good,inventory
+VH-DT-GEN-0017,,,D-Max Chair Red Black Dining,Dining Table,Furniture,2024-04-03 00:00:00+00:00,1590.0,good,inventory
+VH-DT-GEN-0016,,,D-Max Chair Red Black Dining,Dining Table,Furniture,2024-04-03 00:00:00+00:00,1590.0,good,inventory
+VH-DT-GEN-0015,,,D-Max Chair Red Black Dining,Dining Table,Furniture,2024-04-03 00:00:00+00:00,1590.0,good,inventory
+VH-DT-GEN-0014,,,D-Max Chair Red Black Dining,Dining Table,Furniture,2024-04-03 00:00:00+00:00,1590.0,good,inventory
+VH-DT-GEN-0013,,,D-Max Chair Red Black Dining,Dining Table,Furniture,2024-04-03 00:00:00+00:00,1590.0,good,inventory
+VH-DT-GEN-0012,,,D-Max Chair Red Black Dining,Dining Table,Furniture,2024-04-03 00:00:00+00:00,1590.0,good,inventory
+VH-DT-GEN-0011,,,D-Max Chair Red Black Dining,Dining Table,Furniture,2024-04-03 00:00:00+00:00,1590.0,good,inventory
+VH-DT-GEN-0010,,,Marvel Chair,Dining Table,Furniture,2024-11-09 00:00:00+00:00,1700.0,good,inventory
+VH-DT-GEN-0009,,,Marvel Chair,Dining Table,Furniture,2024-11-09 00:00:00+00:00,1700.0,good,inventory
+VH-DT-GEN-0008,,,Marvel Chair,Dining Table,Furniture,2024-11-09 00:00:00+00:00,1700.0,good,inventory
+VH-DT-GEN-0007,,,Marvel Chair,Dining Table,Furniture,2024-11-09 00:00:00+00:00,1700.0,good,inventory
+VH-DT-GEN-0006,,,Marvel Chair,Dining Table,Furniture,2024-11-09 00:00:00+00:00,1700.0,good,inventory
+VH-DT-GEN-0005,,,Marvel Chair,Dining Table,Furniture,2024-11-09 00:00:00+00:00,1700.0,good,inventory
+VH-DT-GEN-0004,,,Marvel Chair,Dining Table,Furniture,2024-11-09 00:00:00+00:00,1700.0,good,inventory
+VH-DT-GEN-0003,,,Marvel Chair,Dining Table,Furniture,2024-11-09 00:00:00+00:00,1700.0,good,inventory
+VH-DT-GEN-0002,,,Marvel Chair,Dining Table,Furniture,2024-11-09 00:00:00+00:00,1700.0,good,inventory
+VH-DT-GEN-0001,,,Marvel Chair,Dining Table,Furniture,2024-11-09 00:00:00+00:00,1700.0,good,inventory
+VH-CU-GEN-0001,,,Home Sizzler Polyester Curtains (Door+Window),Curtain,Soft Furnishing,2025-08-12 00:00:00+00:00,5770.4,good,inventory
+VH-CO-GEN-0041,,,Wooden COT 75x36 (6.1/4x3ft),Cot (Bed Frame),Furniture,2023-04-10 00:00:00+00:00,8000.0,good,inventory
+VH-CO-GEN-0040,,,Wooden COT 75x36 (6.1/4x3ft),Cot (Bed Frame),Furniture,2023-04-10 00:00:00+00:00,8000.0,good,inventory
+VH-CO-GEN-0039,,,Wooden COT 75x36 (6.1/4x3ft),Cot (Bed Frame),Furniture,2023-04-10 00:00:00+00:00,8000.0,good,inventory
+VH-CO-GEN-0038,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0037,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0036,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0035,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0034,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0033,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0032,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0031,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0030,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0029,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0028,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0027,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0026,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0025,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0024,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0023,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0022,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0021,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0020,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0019,,,COT,Cot (Bed Frame),Furniture,2024-03-28 00:00:00+00:00,4900.0,good,inventory
+VH-CO-GEN-0018,,,COT 6x3,Cot (Bed Frame),Furniture,2023-08-25 00:00:00+00:00,4700.0,good,inventory
+VH-CO-GEN-0017,,,COT 6x3,Cot (Bed Frame),Furniture,2023-08-25 00:00:00+00:00,4700.0,good,inventory
+VH-CO-GEN-0016,,,COT 6x3,Cot (Bed Frame),Furniture,2023-08-25 00:00:00+00:00,4700.0,good,inventory
+VH-CO-GEN-0015,,,COT 6x3,Cot (Bed Frame),Furniture,2023-08-25 00:00:00+00:00,4700.0,good,inventory
+VH-CO-GEN-0014,,,COT 6x3,Cot (Bed Frame),Furniture,2023-08-25 00:00:00+00:00,4700.0,good,inventory
+VH-CO-GEN-0013,,,COT 6x3,Cot (Bed Frame),Furniture,2023-08-25 00:00:00+00:00,4700.0,good,inventory
+VH-CO-GEN-0012,,,COT 6x3,Cot (Bed Frame),Furniture,2023-08-25 00:00:00+00:00,4700.0,good,inventory
+VH-CO-GEN-0011,,,COT 6x3,Cot (Bed Frame),Furniture,2023-08-10 00:00:00+00:00,4700.0,good,inventory
+VH-CO-GEN-0010,,,COT 6x3,Cot (Bed Frame),Furniture,2023-08-10 00:00:00+00:00,4700.0,good,inventory
+VH-CO-GEN-0009,,,COT 6x3,Cot (Bed Frame),Furniture,2023-08-10 00:00:00+00:00,4700.0,good,inventory
+VH-CO-GEN-0008,,,COT 6x3,Cot (Bed Frame),Furniture,2023-08-10 00:00:00+00:00,4700.0,good,inventory
+VH-CO-GEN-0007,,,COT 6x3,Cot (Bed Frame),Furniture,2023-08-10 00:00:00+00:00,4700.0,good,inventory
+VH-CO-GEN-0006,,,COT 6x3,Cot (Bed Frame),Furniture,2023-08-10 00:00:00+00:00,4700.0,good,inventory
+VH-CO-GEN-0005,,,,Cot (Bed Frame),Furniture,2024-10-23 00:00:00+00:00,6900.0,good,inventory
+VH-CO-GEN-0004,,,,Cot (Bed Frame),Furniture,2024-10-23 00:00:00+00:00,6900.0,good,inventory
+VH-CO-GEN-0003,,,,Cot (Bed Frame),Furniture,2024-10-23 00:00:00+00:00,6900.0,good,inventory
+VH-CO-GEN-0002,,,,Cot (Bed Frame),Furniture,2024-10-23 00:00:00+00:00,6900.0,good,inventory
+VH-CO-GEN-0001,,,,Cot (Bed Frame),Furniture,2024-10-23 00:00:00+00:00,6900.0,good,inventory
+VH-BS-GEN-0001,,,Modern Bedside Table 3 Shelves Dark Brown,Bedside Table,Soft Furnishing,2025-07-29 00:00:00+00:00,924.66,good,inventory
+VH-BP-GEN-0002,,,,Bedsheet & Pillow Cover,Soft Furnishing,2024-07-29 00:00:00+00:00,1110.88,good,inventory
+VH-BP-GEN-0001,,,,Bedsheet & Pillow Cover,Soft Furnishing,2025-08-08 00:00:00+00:00,4268.7,good,inventory
+VH-WH-D41-0002,19020038614026,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-D41-0001,19020038613868,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-D41-0002,03WH5PBM503660V,Samsung,WA60M4100HY 01 /TL,Washing Machine,Appliances,,,good,allocated
+VH-WM-D41-0001,03WH5PBM503660V,Samsung,WA60M4100HY/TL 01,Washing Machine,Appliances,,,good,allocated
+VH-TV-D41-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-ST-D41-0004,,,,Study Table,Furniture,,,good,allocated
+VH-ST-D41-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-D41-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-D41-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SF-D41-0001,,,,Sofa,Furniture,,,good,allocated
+VH-SS-D41-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-D41-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2025-02-02 00:00:00+00:00,7000.0,good,allocated
+VH-RF-D41-0001,,Samsung,RR20N1Y1ZSE/HL/2019,Refrigerator,Appliances,,,good,allocated
+VH-MW-D41-0002,0BFE7WDM502757L,Samsung,MS23K3513AK/TL MAY-2019,Microwave Oven,Appliances,,,good,allocated
+VH-MW-D41-0001,0BFE7WDM502757L,Samsung,MS23K3513AK/TL,Microwave Oven,Appliances,,,good,allocated
+VH-MA-D41-0008,,,,Mattress,Furniture,,,good,allocated
+VH-MA-D41-0007,,,,Mattress,Furniture,,,good,allocated
+VH-MA-D41-0006,,,,Mattress,Furniture,,,new,allocated
+VH-MA-D41-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MA-D41-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-D41-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-D41-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-D41-0001,,,,Mattress,Furniture,,,new,allocated
+VH-IS-D41-0001,E201 0122 58214,Bajaj,Majesty Slim,Induction Stove,Appliances,,,good,allocated
+VH-FN-D41-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-D41-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-D41-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-ST-C43-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C43-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C43-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SF-C43-0001,,,,Sofa,Furniture,,,good,allocated
+VH-SS-C43-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-C43-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2023-03-30 00:00:00+00:00,7000.0,good,allocated
+VH-RF-C43-0001,,Godrej,RD EDGE 205 TRF 2.2/2019,Refrigerator,Appliances,,,good,allocated
+VH-MW-C43-0001,5008181015041080,IFB,17PM-MEC1,Microwave Oven,Appliances,,,good,allocated
+VH-MA-C43-0005,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C43-0004,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C43-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C43-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C43-0001,,,New,Mattress,Furniture,,,good,allocated
+VH-IS-C43-0001,LI02247943825,Judge,Omega H2a,Induction Stove,Appliances,2025-05-05 00:00:00+00:00,1890.0,good,allocated
+VH-FN-C43-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C43-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C43-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C43-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-DT-C43-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-CB-C43-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C43-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C43-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C43-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C43-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-C43-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C43-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C43-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C43-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C43-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CH-C43-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-C43-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-C43-0001,,,,Chair,Furniture,,,good,allocated
+VH-BS-C43-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C43-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-AC-C43-0003,SE190Q29493,Hitachi,RSG312HCDOBW,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C43-0002,SE190Q15742,Hitachi,RSG312HCD0BW,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C43-0001,SE190Q15753,Hitachi,RSG312HCDOBW,Air Conditioner,Appliances,,,good,allocated
+VH-WH-C42-0002,19090038607037,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C42-0001,19090038606689,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-C42-0001,03WH5PBMA03651T,Samsung,WA60M4100HY 01/ TL,Washing Machine,Appliances,,,good,allocated
+VH-TV-C42-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-ST-C42-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C42-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C42-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SF-C42-0001,,,,Sofa,Furniture,,,good,allocated
+VH-SS-C42-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-C42-0001,,hindustan unilever Pure,,RO Water Purifier,Kitchen & Dining,,,good,allocated
+VH-RF-C42-0001,,Godrej,RD EDGE 205 TRF 2.2/2019,Refrigerator,Appliances,,,good,allocated
+VH-MW-C42-0001,306NMVJ019671,LG,MS2043DB.DB1QILN,Microwave Oven,Appliances,,,good,allocated
+VH-MA-C42-0005,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C42-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C42-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C42-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C42-0001,,,,Mattress,Furniture,,,new,allocated
+VH-IS-C42-0001,BB03KC1376A4083,Impex,Omega H2a,Induction Stove,Appliances,,,good,allocated
+VH-FN-C42-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C42-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C42-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C42-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-DT-C42-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-CB-C42-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C42-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C42-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C42-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C42-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-C42-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C42-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C42-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C42-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C42-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CH-C42-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-C42-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-C42-0001,,,,Chair,Furniture,,,good,allocated
+VH-BS-C42-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C42-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C42-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-AC-C42-0003,SE190Q15792,Hitachi,RSG312HCD0BW,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C42-0002,SE190Q16134,Hitachi,RSG312HCD0BW,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C42-0001,SE190Q15718,Hitachi,RSG312HCD0BW,Air Conditioner,Appliances,,,good,allocated
+VH-WH-C41-0003,19090038607035,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C41-0002,19070038603637,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C41-0001,19090038607036,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-C41-0001,TFP0JB0309240426,Voltas,WTL6004UEA/BPBPOA,Washing Machine,Appliances,,,good,allocated
+VH-ST-C41-0004,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C41-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C41-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C41-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SS-C41-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-C41-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2024-03-30 00:00:00+00:00,7000.0,good,allocated
+VH-RF-C41-0001,,Samsung,RR24C2823CU/NL/2024,Refrigerator,Appliances,,,good,allocated
+VH-MA-C41-0006,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C41-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C41-0004,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C41-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C41-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C41-0001,,,New,Mattress,Furniture,,,good,allocated
+VH-IS-C41-0001,LI02247947918,Judge,,Induction Stove,Appliances,,,good,allocated
+VH-FN-C41-0005,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C41-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C41-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-AC-C21-0003,4552355A19DB01450,Voltas,Voltas EU 123 DZx,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C21-0004,4552355A19DB01007,Voltas,Voltas EU 123 DZX,Air Conditioner,Appliances,,,good,allocated
+VH-BS-C21-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C21-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-CH-C21-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-C21-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-C21-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-C21-0004,,,,Chair,Furniture,,,good,allocated
+VH-CO-C21-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C21-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C21-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C21-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C21-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C21-0006,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-C21-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C21-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C21-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C21-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C21-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C21-0006,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-C21-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-C21-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C21-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C21-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C21-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C21-0005,,,,Fan,Electrical Systems,,,good,allocated
+VH-MA-C21-0001,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C21-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C21-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C21-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C21-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C21-0006,,,,Mattress,Furniture,,,good,allocated
+VH-MW-C21-0001,402NMWW021297,Samsung,MS2043DB,Microwave Oven,Appliances,,,good,allocated
+VH-RF-C21-0001,,Samsung,RR20N1Y1ZSE/HL/2019,Refrigerator,Appliances,,,good,allocated
+VH-RO-C21-0001,,hindustan unilever Pure,,RO Water Purifier,Kitchen & Dining,,,good,allocated
+VH-SS-C21-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-ST-C21-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C21-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C21-0003,,,,Study Table,Furniture,,,good,allocated
+VH-WM-C21-0001,03WH5PBM504055Z,Samsung,WA60M4100HY/TL 01,Washing Machine,Appliances,,,good,allocated
+VH-WH-C21-0001,19020038613965,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C21-0002,19020038613963,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C21-0003,19020038613961,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-C24-0001,IAF252600214,Whirlppol,1.0 ton MFCL 3S COPR-P,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C24-0002,AL00MJ00Q015UM4B0163,Haier,HS18T-NMW2B,Air Conditioner,Appliances,,,good,allocated
+VH-BS-C24-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C24-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-CH-C24-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-C24-0002,,,,Chair,Furniture,,,good,allocated
+VH-CO-C24-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C24-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C24-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C24-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C24-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-C24-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C24-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C24-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C24-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C24-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-C24-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-C24-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C24-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C24-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-C24-0001,LI02247943821,Judge,Optima Plus,Induction Stove,Appliances,,,good,allocated
+VH-MA-C24-0001,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C24-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C24-0003,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C24-0004,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C24-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MW-C24-0001,246PULCTFU02373,Panasoic,NN-SM25JBFDG,Microwave Oven,Appliances,,,good,allocated
+VH-RF-C24-0001,,Samsung,RR20C1723S8/HL/2024,Refrigerator,Appliances,,,good,allocated
+VH-RO-C24-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2024-08-21 00:00:00+00:00,7000.0,good,allocated
+VH-SS-C24-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-SF-C24-0001,,,,Sofa,Furniture,,,good,allocated
+VH-ST-C24-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C24-0002,,,,Study Table,Furniture,,,good,allocated
+VH-TF-C24-0001,,,,Table Fan (Wall),Appliances,,,good,allocated
+VH-WM-C24-0001,04KT5PBX602187E,Samsung,WA70A4002GS/TL 02,Washing Machine,Appliances,,,good,allocated
+VH-WH-C24-0001,,Venus,06GL/2021,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C24-0002,19070038603639,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-C31-0001,4552355A19DB01703,Voltas,Voltas 123 DZX,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C31-0002,4552355a19DB01320,Voltas,Voltas 123 DZX,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C31-0003,4552355A19DB01082,Voltas,Voltas 123 DZX/4502515/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C31-0004,4552355A19DBC1750,Voltas,,Air Conditioner,Appliances,,,good,allocated
+VH-BS-C31-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C31-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C31-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C31-0004,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-CH-C31-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-C31-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-C31-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-C31-0004,,,,Chair,Furniture,,,good,allocated
+VH-CO-C31-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C31-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C31-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C31-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C31-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C31-0006,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-C31-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C31-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C31-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C31-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C31-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C31-0006,,,,Cupboard,Furniture,,,good,allocated
+VH-FN-C31-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C31-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C31-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C31-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C31-0005,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-C31-0001,Not available,Impex,Omega H2a,Induction Stove,Appliances,,,good,allocated
+VH-MA-C31-0001,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C31-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C31-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C31-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C31-0005,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C31-0006,,,,Mattress,Furniture,,,new,allocated
+VH-MW-C31-0001,,Samsung,,Microwave Oven,Appliances,,,good,allocated
+VH-RF-C31-0001,0BFE7WDM502897P,Samsung,RR20N1Y1ZSE/HL/2019,Refrigerator,Appliances,,,good,allocated
+VH-RO-C31-0001,,hindustan unilever Pure,,RO Water Purifier,Kitchen & Dining,,,good,allocated
+VH-SS-C31-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-ST-C31-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C31-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C31-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C31-0004,,,,Study Table,Furniture,,,good,allocated
+VH-TV-C31-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-WD-C31-0001,,,Single Door Wardrobe With Mirror,Wardrobe,Furniture,2025-06-17 00:00:00+00:00,4194.92,good,allocated
+VH-WM-C31-0001,03WH5PBM402851V,Samsung,WA60M4100HY 01/TL,Washing Machine,Appliances,,,good,allocated
+VH-WH-C31-0001,19020038613964,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C31-0002,19020038613681,Venus,,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C31-0003,19020038613683,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-C34-0001,4552355A19DB01661,Voltas,Voltas EU 123 DZX,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C34-0002,,Voltas,4502515/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C34-0003,,,,Air Conditioner,Appliances,,,good,allocated
+VH-BS-C34-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C34-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C34-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C34-0004,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-DT-D41-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-CH-C34-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-C34-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-C34-0004,,,,Chair,Furniture,,,good,allocated
+VH-CO-C34-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C34-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C34-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C34-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C34-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-C34-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C34-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C34-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C34-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C34-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-C34-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-C34-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C34-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C34-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C34-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-C34-0001,BB03KC01376A2321,Impex,Omega H2a,Induction Stove,Appliances,,,good,allocated
+VH-MA-C34-0001,,,New,Mattress,Furniture,,,good,allocated
+VH-MA-C34-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C34-0003,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C34-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C34-0005,,,,Mattress,Furniture,,,good,allocated
+VH-MW-C34-0001,308NMHL000201,LG,MS2043DB.DB1QILN,Microwave Oven,Appliances,,,good,allocated
+VH-RF-C34-0001,,Samsung,RR20N1Y1ZSE/HL/2019,Refrigerator,Appliances,,,good,allocated
+VH-RO-C34-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2025-10-27 00:00:00+00:00,7000.0,good,allocated
+VH-SS-C34-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-SF-C34-0001,,,,Sofa,Furniture,,,good,allocated
+VH-ST-C34-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C34-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C34-0003,,,,Study Table,Furniture,,,good,allocated
+VH-TV-C34-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-WD-C34-0001,,,Single Door Wardrobe With Mirror,Wardrobe,Furniture,2025-06-17 00:00:00+00:00,4194.92,good,allocated
+VH-WD-C34-0002,,,Single Door Wardrobe With Mirror,Wardrobe,Furniture,2025-06-17 00:00:00+00:00,4194.92,good,allocated
+VH-WM-C34-0001,03WH5PBM401881F,Samsung,WA60M4100HY 01 /TL,Washing Machine,Appliances,,,good,allocated
+VH-WH-C34-0001,19020038613962,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C34-0002,19020038613960,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-C41-0001,SE190025911,Hitachi,RSG312HCD0BW/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C41-0002,SE190Q15757,Hitachi,RSG312HCD0BW/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C41-0003,SE190016119,Hitachi,RSG312HCDOBW,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C41-0004,,,,Air Conditioner,Appliances,,,good,allocated
+VH-BS-C41-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C41-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-CH-C41-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-C41-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-C41-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-C41-0004,,,,Chair,Furniture,,,good,allocated
+VH-CO-C41-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C41-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C41-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C41-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C41-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C41-0006,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-C41-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C41-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C41-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C41-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C41-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C41-0006,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-C41-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-C41-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-CH-C34-0001,,,,Chair,Furniture,,,good,allocated
+VH-CB-D41-0008,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D41-0007,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D41-0006,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D41-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D41-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D41-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D41-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D41-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-D41-0008,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D41-0007,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D41-0006,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D41-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D41-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D41-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D41-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D41-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CH-D41-0005,,,,Chair,Furniture,,,good,allocated
+VH-CH-D41-0004,,,,Chair,Furniture,,,good,allocated
+VH-CH-D41-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-D41-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-D41-0001,,,,Chair,Furniture,,,good,allocated
+VH-BS-D41-0007,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-D41-0006,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-D41-0005,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-D41-0004,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-D41-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-D41-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-D41-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-AC-D41-0004,IAF251524561,Whirlpool,1.0 ton MGCL 3S COPR -P,Air Conditioner,Appliances,,,good,allocated
+VH-AC-D41-0003,GP-A1S12P22PIDUEXS00678,Blue Star,GP-A1S12P22PIDU,Air Conditioner,Appliances,,,good,allocated
+VH-AC-D41-0002,,Whirlpool,1.0 ton MGCL 3S COPR -P,Air Conditioner,Appliances,,,good,allocated
+VH-AC-D41-0001,GP-A1S12P22PIDUEXS00678,Blue Stare,GP-A1S12P22PIDU,Air Conditioner,Appliances,,,new,allocated
+VH-RO-D31-0001,,,,RO Water Purifier,Kitchen & Dining,2025-09-16 00:00:00+00:00,7000.0,good,allocated
+VH-WH-D21-0003,,,,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-D21-0002,19020038613866,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-D21-0001,19020038613869,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-D21-0001,1200263A22B101782,Voltas,WTL65UPSE,Washing Machine,Appliances,,,good,allocated
+VH-ST-D21-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-D21-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-D21-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SF-D21-0001,,,,Sofa,Furniture,,,good,allocated
+VH-SS-D21-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-D21-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2023-08-30 00:00:00+00:00,7000.0,good,allocated
+VH-RF-D21-0001,,Godrej,RD EDGE 205 TRF 2.2/2019,Refrigerator,Appliances,,,good,allocated
+VH-MW-D21-0001,GZMW22D0083308,Voltas,N222W304909G/MS17WM,Microwave Oven,Appliances,,,good,allocated
+VH-MA-D21-0006,,,,Mattress,Furniture,,,new,allocated
+VH-MA-D21-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MA-D21-0004,,,,Mattress,Furniture,,,new,allocated
+VH-MA-D21-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-D21-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-D21-0001,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,good,allocated
+VH-IS-D21-0001,LI12181110046,Prestige,PIC 20.0,Induction Stove,Appliances,,,good,allocated
+VH-FN-D21-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-D21-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-D21-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-DT-D21-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-CB-D21-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D21-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D21-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D21-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-D21-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D21-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D21-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D21-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CH-D21-0004,,,,Chair,Furniture,,,good,allocated
+VH-CH-D21-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-D21-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-D21-0001,,,,Chair,Furniture,,,good,allocated
+VH-AC-D21-0004,SE190025943,Hitachi,RSG312HCDOBW,Air Conditioner,Appliances,,,good,allocated
+VH-AC-D21-0003,SE190Q25943,,RSG312HCD0BW,Air Conditioner,Appliances,,,good,allocated
+VH-AC-D21-0002,SE190Q29421,Hitachi,RSG312HCD06W,Air Conditioner,Appliances,,,good,allocated
+VH-AC-D21-0001,SE190Q26048,Hitachi,RSG312HCD0BW,Air Conditioner,Appliances,,,good,allocated
+VH-WH-D12-0002,19070038603500,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-D12-0001,19090038606686,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-D12-0001,05A15PAW705845J,Samsung,WA70BG4441BY/2023,Washing Machine,Appliances,,,good,allocated
+VH-TV-D12-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-ST-D12-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-D12-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SF-D12-0001,,,,Sofa,Furniture,,,good,allocated
+VH-SS-D12-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-D12-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2023-08-05 00:00:00+00:00,7000.0,good,allocated
+VH-RF-D12-0001,,Samsung,RR20C1712S8/HL/2023,Refrigerator,Appliances,,,good,allocated
+VH-MW-D12-0001,306NMXH013642,LG,MS2043DB0BB1QILN,Microwave Oven,Appliances,,,good,allocated
+VH-MA-D12-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MA-D12-0004,,,,Mattress,Furniture,,,new,allocated
+VH-MA-D12-0003,,,,Mattress,Furniture,,,new,allocated
+VH-MA-D12-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-D12-0001,,,,Mattress,Furniture,,,new,allocated
+VH-IS-D12-0001,BB03KC1376A4081,Impex,Optima Plus,Induction Stove,Appliances,,,good,allocated
+VH-FN-D12-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-D12-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-D12-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-D12-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-DT-D12-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-CB-D12-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D12-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D12-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D12-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D12-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-D12-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D12-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D12-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D12-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D12-0001,,,COT 3x6,Cot (Bed Frame),Furniture,2025-06-17 00:00:00+00:00,5950.0,good,allocated
+VH-CH-D12-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-D12-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-D12-0001,,,,Chair,Furniture,,,good,allocated
+VH-AC-D12-0003,BCX0P9AM800016T,Samsung,AR12RG3BAWKNNA,Air Conditioner,Appliances,,,good,allocated
+VH-AC-D12-0002,BCZX0P9AM800020W,Samsung,AR12RG3BAWKNNA,Air Conditioner,Appliances,,,good,allocated
+VH-AC-D12-0001,BCZ0P9AM800047E,Samsung,AR12RG3BAWKNNA,Air Conditioner,Appliances,,,good,allocated
+VH-WH-D11-0003,18090038606518,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-D11-0002,19070038603638,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-D11-0001,19070038603638,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-D11-0001,T62CG#18LH2#004262,Onida,CRYSTAL,Washing Machine,Appliances,,,good,allocated
+VH-TV-D11-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-ST-D11-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-D11-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-D11-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SF-D11-0001,,,,Sofa,Furniture,,,good,allocated
+VH-SS-D11-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-D11-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2025-09-16 00:00:00+00:00,7000.0,good,allocated
+VH-RF-D11-0001,,Samsung,RR20N1Y1ZSE/HL/2019,Refrigerator,Appliances,,,good,allocated
+VH-MW-D11-0001,0BFE7WDM502780N,Samsung,MS23K3513AK/TL MAY-2019,Microwave Oven,Appliances,,,good,allocated
+VH-MA-D11-0006,,,,Mattress,Furniture,,,good,allocated
+VH-MA-D11-0005,,,,Mattress,Furniture,,,good,allocated
+VH-MA-D11-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-D11-0003,,,,Mattress,Furniture,,,new,allocated
+VH-MA-D11-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-D11-0001,,,,Mattress,Furniture,,,new,allocated
+VH-IS-D11-0001,LI03235325174,Prestige,PIC 16.0+,Induction Stove,Appliances,2025-05-05 00:00:00+00:00,1890.0,good,allocated
+VH-FN-D11-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-D11-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-DT-D11-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-CB-D11-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D11-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D11-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-D11-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-D11-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D11-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D11-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-D11-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CH-D11-0004,,,,Chair,Furniture,,,good,allocated
+VH-CH-D11-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-D11-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-D11-0001,,,,Chair,Furniture,,,good,allocated
+VH-BS-D11-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-D11-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-D11-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-AC-D11-0003,,,,Air Conditioner,Appliances,,,good,allocated
+VH-FN-C41-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-AC-D11-0002,,,,Air Conditioner,Appliances,,,good,allocated
+VH-AC-D11-0001,,,,Air Conditioner,Appliances,,,good,allocated
+VH-WH-C44-0002,1909003107033,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C44-0001,,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-C44-0001,05A05PBW2044136,Samsung,WA70BG4441BG,Washing Machine,Appliances,,,good,allocated
+VH-TV-C44-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-ST-C44-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C44-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C44-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SF-C44-0001,,,,Sofa,Furniture,,,good,allocated
+VH-SS-C44-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-C44-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2023-03-30 00:00:00+00:00,7000.0,good,allocated
+VH-RF-C44-0001,,Godrej,RD EDGE 205 TRF 2.2/2019,Refrigerator,Appliances,,,good,allocated
+VH-MW-C44-0001,0CDL7WEW100085A,Samsung,MS23A3513AK/TL/JANUARY-2023,Microwave Oven,Appliances,,,good,allocated
+VH-MA-C44-0005,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C44-0004,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C44-0003,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C44-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C44-0001,,,,Mattress,Furniture,,,new,allocated
+VH-IS-C44-0001,LIH08249127794,Judge,Optima Plus,Induction Stove,Appliances,,,good,allocated
+VH-FN-C44-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C44-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C44-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C44-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-DT-C44-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-CB-C44-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C44-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C44-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C44-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C44-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-C44-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C44-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C44-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C44-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C44-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CH-C44-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-C44-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-C44-0001,,,,Chair,Furniture,,,good,allocated
+VH-BS-C44-0004,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C44-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C44-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C44-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-AC-C44-0003,,Hitachi,RSG312HCD0BW/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C44-0002,42462f1251524552,Whirlpool,1.0 ton MGC; 3S COPR -P,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C44-0001,SE190Q16121,Hitachi,ESG312HCDOBW,Air Conditioner,Appliances,,,good,allocated
+VH-WH-C43-0002,Not available,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C43-0001,19090038607038,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-C43-0001,T62CGD#18FH2#004385,Onida,CRYSTAL,Washing Machine,Appliances,,,good,allocated
+VH-TV-C43-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-MA-B43-0002,,,,Mattress,Furniture,,,good,allocated
+VH-CB-B22-0009,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-B22-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-DT-B22-0002,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-B22-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B22-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B22-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B22-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-B22-0001,BB03KC1376A4080,Impex,OMEGA H2A,Induction Stove,Appliances,,,good,allocated
+VH-MA-B22-0001,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B22-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B22-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B22-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B22-0005,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B22-0006,,,,Mattress,Furniture,,,new,allocated
+VH-MW-B22-0001,247PULCTEU01912,Panasonic,NN-ST26JMFDG,Microwave Oven,Appliances,,,good,allocated
+VH-RF-B22-0001,,Godrej,RD EDGE 205 TRF 2.2/2019,Refrigerator,Appliances,,,good,allocated
+VH-RO-B22-0001,,Adyar Mars,,RO Water Purifier,Kitchen & Dining,2023-04-03 00:00:00+00:00,7000.0,good,allocated
+VH-SS-B22-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-SF-B22-0001,,,,Sofa,Furniture,,,good,allocated
+VH-ST-B22-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B22-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B22-0003,,,,Study Table,Furniture,,,good,allocated
+VH-TV-B22-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-WM-B22-0001,05A15PBW217498K,Samsung,WA70BG4441BY,Washing Machine,Appliances,,,good,allocated
+VH-WH-B22-0001,Not Available,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B22-0002,19070038603521,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-B24-0001,BCX0P9AM700036,Samsung,AR12RG3BAWK/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B24-0002,BCX0P9AM/00020,,AR12RG3BAWXNNA,Air Conditioner,Appliances,,,good,allocated
+VH-BS-B24-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B24-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B24-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B24-0004,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-CH-B24-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-B24-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-B24-0003,,,,Chair,Furniture,,,good,allocated
+VH-CO-B24-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B24-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B24-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B24-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B24-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-B24-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B24-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B24-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B24-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B24-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-B24-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-B24-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B24-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B24-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-B24-0001,BB06KC1376A0537,Impex,OMEGA H2A,Induction Stove,Appliances,,,good,allocated
+VH-MA-B24-0001,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B24-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B24-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B24-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B24-0005,,,,Mattress,Furniture,,,good,allocated
+VH-MW-B24-0001,0BFE7WDM502870N,Samsung,MS23K3513AK/TL MAY 2019,Microwave Oven,Appliances,,,good,allocated
+VH-RF-B24-0001,,Samsung,RR20N1Y1Z5E/HL/2018,Refrigerator,Appliances,,,good,allocated
+VH-RO-B24-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2026-02-09 00:00:00+00:00,7000.0,good,allocated
+VH-SS-B24-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-SF-B24-0001,,,,Sofa,Furniture,,,good,allocated
+VH-ST-B24-0001,,,,Study Table,Furniture,,,good,allocated
+VH-TF-B24-0001,,,,Table Fan (Wall),Appliances,,,good,allocated
+VH-TV-B24-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-WM-B24-0001,03WH5PBM801608L,Samsung,WA60M4100HY 01,Washing Machine,Appliances,,,good,allocated
+VH-WH-B24-0001,19020038614029,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B24-0002,19020038614031,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-B31-0001,408PAYU008418,LG,TS-Q18ANXE2,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B31-0002,408PART008390,LG,TS-Q18ANXE2/2024,Air Conditioner,Appliances,,,good,allocated
+VH-CH-B31-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-B31-0002,,,,Chair,Furniture,,,good,allocated
+VH-CO-B31-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B31-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B31-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B31-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-B31-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B31-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B31-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B31-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-B31-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-B31-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B31-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B31-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-B31-0001,LIH08249128162,Judge,Optima Plus,Induction Stove,Appliances,,,good,allocated
+VH-MA-B31-0001,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,good,allocated
+VH-MA-B31-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B31-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B31-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MW-B31-0001,247PULCTFU02685,Panasonic,NN-SM25JBFDG,Microwave Oven,Appliances,,,good,allocated
+VH-RF-B31-0001,RR20C1723S8/HL/2024,Samsung,,Refrigerator,Appliances,,,good,allocated
+VH-RO-B31-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,,,good,allocated
+VH-SS-B31-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-SF-B31-0001,,,,Sofa,Furniture,,,good,allocated
+VH-ST-B31-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B31-0002,,,,Study Table,Furniture,,,good,allocated
+VH-WM-B31-0001,04KT5PBX706900X,Samsung,WA70A4002GS/2024,Washing Machine,Appliances,,,good,allocated
+VH-WH-B31-0001,710201758,Ferroli,Mito Caldo,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B31-0002,PLMEB031273,Compton,SWH810,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-B32-0001,,IFB,IAFS12XA3T3C/2018,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B32-0002,,Samsung,AR12RG3BAWK/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B32-0003,,IFB,IAFS12XA3T3C,Air Conditioner,Appliances,,,good,allocated
+VH-BS-B32-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B32-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B32-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B32-0004,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-CH-B32-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-B32-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-B32-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-B32-0004,,,,Chair,Furniture,,,good,allocated
+VH-CO-B32-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B32-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B32-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B32-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B32-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-B32-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B32-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B32-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B32-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B32-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-B32-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-B32-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B32-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B32-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B32-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-B32-0001,CNA1812001318,Preethi,,Induction Stove,Appliances,,,good,allocated
+VH-MA-B32-0001,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,good,allocated
+VH-MA-B32-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B32-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B32-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B32-0005,,,,Mattress,Furniture,,,good,allocated
+VH-MW-B32-0001,0BFE7WDM502894M,Samsung,MS23K3513AK/TL,Microwave Oven,Appliances,,,good,allocated
+VH-RF-B32-0001,,Haier,HRD-1703/2018,Refrigerator,Appliances,,,good,allocated
+VH-RO-B32-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2025-04-06 00:00:00+00:00,7000.0,good,allocated
+VH-SS-B32-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-SF-B32-0001,,,,Sofa,Furniture,,,good,allocated
+VH-ST-B32-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B32-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B32-0003,,,,Study Table,Furniture,,,good,allocated
+VH-TV-B32-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-WM-B32-0001,T62CG#18LH2#004235,Onida,CRYSTAL,Washing Machine,Appliances,,,good,allocated
+VH-WH-B32-0001,19070038603523,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B32-0002,19070038603524,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-B33-0001,,Samsung,AR12RG3BAWK/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B33-0002,,Samsung,AR12RG3BAWK/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B33-0003,BCX0P9AM800065B,Samsung,AR12RG3BAWKNNA,Air Conditioner,Appliances,,,good,allocated
+VH-BS-B33-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B33-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B33-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-CH-B33-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-B33-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-B33-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-B33-0004,,,,Chair,Furniture,,,good,allocated
+VH-CO-B33-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B33-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B33-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B33-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B33-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-B33-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B33-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B33-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B33-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B33-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-B33-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-B33-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B33-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B33-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-B33-0001,LI04248378880,Judge,Optima Plus,Induction Stove,Appliances,2025-02-21 00:00:00+00:00,1890.0,good,allocated
+VH-MA-B33-0001,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,new,allocated
+VH-MA-B33-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B33-0003,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B33-0004,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B33-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MW-B33-0001,0BFE7WDM502904T,Samsung,MS23K3513AK/TL MAY 2019,Microwave Oven,Appliances,,,good,allocated
+VH-RF-B33-0001,,Samsung,RR20N1Y1ZSE/HL/2019,Refrigerator,Appliances,,,good,allocated
+VH-RO-B33-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2025-07-16 00:00:00+00:00,7000.0,good,allocated
+VH-SS-B33-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-SF-B33-0001,,,,Sofa,Furniture,,,good,allocated
+VH-ST-B33-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B33-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B33-0003,,,,Study Table,Furniture,,,good,allocated
+VH-TV-B33-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-WM-B33-0001,,,,Washing Machine,Appliances,,,good,allocated
+VH-WH-B33-0001,,,,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B33-0002,19070038606525,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B33-0003,19070038603498,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-B34-0001,,IFB,IAFS12ZA3T3C/2018,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B34-0002,,IFB,IAFS12XA3T3C/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B34-0003,,IFB,IAFS12XA3T3C/2018,Air Conditioner,Appliances,,,good,allocated
+VH-BS-B34-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B34-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B34-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B34-0004,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B34-0005,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-CH-B34-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-B34-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-B34-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-B34-0004,,,,Chair,Furniture,,,good,allocated
+VH-CO-B34-0001,,,COT 3x6,Cot (Bed Frame),Furniture,2025-06-17 00:00:00+00:00,5950.0,good,allocated
+VH-CO-B34-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B34-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B34-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B34-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-B34-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B34-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B34-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B34-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B34-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-B34-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-B34-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B34-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B34-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B34-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-B34-0001,MB41134F25041846,Judge,,Induction Stove,Appliances,,,good,allocated
+VH-MA-B34-0001,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B34-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B34-0003,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B34-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B34-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MW-B34-0001,256PULCTEU04359,Panasonic,NN-ST26JMFDG,Microwave Oven,Appliances,,,good,allocated
+VH-RF-B34-0001,,Haier,HRD-1703/2018,Refrigerator,Appliances,,,good,allocated
+VH-RO-B34-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2025-10-23 00:00:00+00:00,7000.0,good,allocated
+VH-SS-B34-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-SF-B34-0001,,,,Sofa,Furniture,,,good,allocated
+VH-ST-B34-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B34-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B34-0003,,,,Study Table,Furniture,,,good,allocated
+VH-TV-B34-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-WM-B34-0001,,Panasonic,NA-F65C1CRB/2022,Washing Machine,Appliances,,,good,allocated
+VH-WH-B34-0001,190700386034,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B34-0002,19070038603497,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-B41-0001,,Voltas,4502515/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B41-0002,,Voltas,4502515/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B41-0003,,Voltas,4502515/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B41-0004,,Voltas,4502515/2019,Air Conditioner,Appliances,,,good,allocated
+VH-BS-B41-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B41-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-CH-B41-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-B41-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-B41-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-B41-0004,,,,Chair,Furniture,,,good,allocated
+VH-CO-B41-0001,,,COT 3x6,Cot (Bed Frame),Furniture,2025-01-01 00:00:00+00:00,6950.0,good,allocated
+VH-CO-B41-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B41-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B41-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B41-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B41-0006,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B41-0007,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-B41-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B41-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B41-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B41-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B41-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B41-0006,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-B41-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-B41-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B41-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B41-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B41-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-B41-0001,BB03KC1376A4082,Impex,OMEGA H2A,Induction Stove,Appliances,,,good,allocated
+VH-MA-B41-0001,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B41-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B41-0003,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B41-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B41-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B41-0006,,,,Mattress,Furniture,,,good,allocated
+VH-MW-B41-0001,247PULCTEU02501,Panasonic,NN-ST26JMFDG,Microwave Oven,Appliances,,,good,allocated
+VH-RF-B41-0001,,Samsung,RR20N1Y1ZSE/HL/2019,Refrigerator,Appliances,,,good,allocated
+VH-RO-B41-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2024-06-18 00:00:00+00:00,7000.0,new,allocated
+VH-SS-B41-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-ST-B41-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B41-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B41-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B41-0004,,,,Study Table,Furniture,,,good,allocated
+VH-WM-B41-0001,03wh5pbm504084t,Samsung,wa60m4100hy 01,Washing Machine,Appliances,,,good,allocated
+VH-WH-B41-0001,19020038613736,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B41-0002,19020038613735,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B41-0003,19023033513737,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-B42-0001,,Vestar,VASKR123X5H/2018,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B42-0002,SE190029500,Hitachi,RSG312HCDOBW,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B42-0003,,Vestar,VASKR123X5H/2018,Air Conditioner,Appliances,,,good,allocated
+VH-BS-B42-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B42-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B42-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B42-0004,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B42-0005,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-CH-B42-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-B42-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-B42-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-B42-0004,,,,Chair,Furniture,,,good,allocated
+VH-CO-B42-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B42-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B42-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B42-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B42-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-B42-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B42-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B42-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B42-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B42-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-B42-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-B42-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B42-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B42-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B42-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-B42-0001,E201012256971,Bajaj,MAJESTY SLIM,Induction Stove,Appliances,,,good,allocated
+VH-MA-B42-0001,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B42-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B42-0003,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B42-0004,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B42-0005,,,,Mattress,Furniture,,,good,allocated
+VH-MW-B42-0001,0CDM7WDW200588L,Samsung,MG23A3515AK/TL,Microwave Oven,Appliances,,,good,allocated
+VH-RF-B42-0001,,Croma,CRAR0216/2019,Refrigerator,Appliances,,,good,allocated
+VH-RO-B42-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2025-11-07 00:00:00+00:00,7000.0,new,allocated
+VH-SS-B42-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-SF-B42-0001,,,,Sofa,Furniture,,,good,allocated
+VH-ST-B42-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B42-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B42-0003,,,,Study Table,Furniture,,,good,allocated
+VH-TV-B42-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-WM-B42-0001,03WH5PBMA03639W,Samsung,WA60M4100HY 01,Washing Machine,Appliances,,,good,allocated
+VH-WH-B42-0001,18090038608132,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B42-0002,18090038608134,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-B43-0001,A2551R03146,Vestar,VASKR123X5H,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B43-0002,SE190O29475,Hitachi,RSG312HCD0BW,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B43-0003,500785439243000000,Camiro,Campt-12C,Air Conditioner,Appliances,,,good,allocated
+VH-BS-B43-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B43-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B43-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B43-0004,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B43-0005,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-CH-B43-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-B43-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-B43-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-B43-0004,,,,Chair,Furniture,,,good,allocated
+VH-CO-B43-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B43-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B43-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B43-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B43-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-B43-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B43-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B43-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B43-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B43-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-B43-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-B43-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B43-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B43-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B43-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-B43-0001,E201072115834,Bajaj,Majesty Slim,Induction Stove,Appliances,,,good,allocated
+VH-MA-B43-0001,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B43-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B43-0004,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B43-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MW-B43-0001,5008180815020540,IFB,17PM-MEC1,Microwave Oven,Appliances,,,good,allocated
+VH-RF-B43-0001,,Haier,HRD-1703/2018,Refrigerator,Appliances,,,good,allocated
+VH-RO-B43-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2024-08-02 00:00:00+00:00,7000.0,good,allocated
+VH-SS-B43-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-SF-B43-0001,,,,Sofa,Furniture,,,good,allocated
+VH-ST-B43-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B43-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B43-0003,,,,Study Table,Furniture,,,good,allocated
+VH-WM-B43-0001,03WH5PBM504084T,Samsung,WA60M4100HY 01,Washing Machine,Appliances,,,good,allocated
+VH-WH-B43-0001,18090038608136,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B43-0002,18090038608137,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-B44-0001,,Vestar,VASKR123X5H/2018,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B44-0002,A2551R03192,Vestar,VASKR123X5H,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B44-0003,A2551R03272,Vestar,VASKR123X5H,Air Conditioner,Appliances,,,good,allocated
+VH-BS-B44-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B44-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B44-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B44-0004,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-B44-0005,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-CH-B44-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-B44-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-B44-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-B44-0004,,,,Chair,Furniture,,,good,allocated
+VH-CO-B44-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B44-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B44-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B44-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B44-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-B44-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B44-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B44-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B44-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B44-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-B44-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-B44-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B44-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B44-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B44-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-B44-0001,GCISB11918R1,Green chef,SPECTRA+,Induction Stove,Appliances,,,good,allocated
+VH-MA-B44-0001,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B44-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B44-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B44-0004,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B44-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MW-B44-0001,0BFE7WDM502886T,Samsung,MS23K3513AK/TL,Microwave Oven,Appliances,,,good,allocated
+VH-RF-B44-0001,,Haier,HRD-1703/2018,Refrigerator,Appliances,,,good,allocated
+VH-RO-B44-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2024-06-16 00:00:00+00:00,7000.0,good,allocated
+VH-SS-B44-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-SF-B44-0001,,,,Sofa,Furniture,,,good,allocated
+VH-ST-B44-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B44-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B44-0003,,,,Study Table,Furniture,,,good,allocated
+VH-TV-B44-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-WM-B44-0001,T62CGD#18FH2#004492,Onida,CRYSTAL,Washing Machine,Appliances,,,good,allocated
+VH-WH-B44-0001,18090038608133,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B44-0002,18090038608135,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-C11-0001,,Voltas,4502515/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C11-0002,,Voltas,4502515/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C11-0003,1552355A19D01065,Voltas,Voltas EU 123 DZY,Air Conditioner,Appliances,,,good,allocated
+VH-BS-C11-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C11-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-CH-C11-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-C11-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-C11-0003,,,,Chair,Furniture,,,good,allocated
+VH-CO-C11-0001,,,COT 3x6,Cot (Bed Frame),Furniture,2025-01-01 00:00:00+00:00,6950.0,good,allocated
+VH-CO-C11-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C11-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C11-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C11-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-C11-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C11-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C11-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C11-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C11-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-C11-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-C11-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C11-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C11-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C11-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-C11-0001,MB50204B25003063,Judge,Optima Plus,Induction Stove,Appliances,2025-07-03 00:00:00+00:00,1890.0,good,allocated
+VH-MA-C11-0001,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C11-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C11-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C11-0004,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C11-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MW-C11-0001,0BFE7WRMC00450Z,,MS23K3513AK/TL December 2019,Microwave Oven,Appliances,,,good,allocated
+VH-RF-C11-0001,Not Available,,,Refrigerator,Appliances,,,good,allocated
+VH-RO-C11-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2025-04-06 00:00:00+00:00,7000.0,good,allocated
+VH-SS-C11-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-SF-C11-0001,,,,Sofa,Furniture,,,good,allocated
+VH-ST-C11-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C11-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C11-0003,,,,Study Table,Furniture,,,good,allocated
+VH-WM-C11-0001,03WH5PBM605564L,Samsung,WA60M4100HY/TL 01,Washing Machine,Appliances,,,good,allocated
+VH-WH-C11-0001,19020038613682,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C11-0002,19070038513678,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-C12-0001,3405956160185270009856,Vestar,,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C12-0002,IAF251524584,Whirlppol,1.0 ton MFCL 3S COPR-P,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C12-0003,,Haier,HSU-19TCR3C/2017,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C12-0004,IAF251524347,Whirlppol,1.0 ton MGCL 3S COPR-P,Air Conditioner,Appliances,,,good,allocated
+VH-BS-C12-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-C12-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-CH-C12-0001,,,,Chair,Furniture,,,good,allocated
+VH-CH-C12-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-C12-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-C12-0004,,,,Chair,Furniture,,,good,allocated
+VH-CH-C12-0005,,,,Chair,Furniture,,,good,allocated
+VH-CO-C12-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C12-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C12-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C12-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C12-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-C12-0006,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CB-C12-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C12-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C12-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C12-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C12-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-C12-0006,,,,Cupboard,Furniture,,,good,allocated
+VH-DT-C12-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-FN-C12-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C12-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-C12-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-IS-C12-0001,LI04248378884,Judge,Optima Plus,Induction Stove,Appliances,,,good,allocated
+VH-MA-C12-0001,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C12-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C12-0003,,,,Mattress,Furniture,,,new,allocated
+VH-MA-C12-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-C12-0005,,,,Mattress,Furniture,,,good,allocated
+VH-MW-C12-0001,0BFE7WEM603897Z,Samsung,MS23K3513AK/TL JUNE-2019,Microwave Oven,Appliances,,,good,allocated
+VH-RF-C12-0001,RR20N1Y1ZSE/HL/2019,Samsung,,Refrigerator,Appliances,,,good,allocated
+VH-RF-C12-0002,,Godraj,RD EDGE,Refrigerator,Appliances,,,good,allocated
+VH-RO-C12-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2025-02-28 00:00:00+00:00,7000.0,good,allocated
+VH-SS-C12-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-SF-C12-0001,,,,Sofa,Furniture,,,good,allocated
+VH-ST-C12-0001,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C12-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-C12-0003,,,,Study Table,Furniture,,,good,allocated
+VH-TV-C12-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-WM-C12-0001,03WH5PBM504155Y,Samsung,WA60M4100HY/TL 01,Washing Machine,Appliances,,,good,allocated
+VH-WH-C12-0001,,Racold,CDR 15V /2013,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C12-0002,19020038614030,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C12-0003,,,,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-C12-0004,19020038461896,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-AC-C21-0001,4552355A19DB01013,Voltas,4502515/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-C21-0002,4552355A19DB01004,Voltas,4502515/2019 / Voltas 123 DZX,Air Conditioner,Appliances,,,good,allocated
+VH-AL-A11-0001,,,,ACCL Device,Electrical Systems,2025-07-22 00:00:00+00:00,8840.0,good,allocated
+VH-CB-B22-0008,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B22-0007,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B22-0006,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B22-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B22-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B22-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B22-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B22-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-B22-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B22-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B22-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B22-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B22-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CH-B22-0004,,,,Chair,Furniture,,,good,allocated
+VH-CH-B22-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-B22-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-B22-0001,,,,Chair,Furniture,,,good,allocated
+VH-BS-B22-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-AC-B22-0003,,Hitachi,RSG312HCD0BW/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B22-0002,SE190029435,Hitachi,RSG312HCDOBW/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B22-0001,,Hitachi,RSG312HCDOBW/2019,Air Conditioner,Appliances,,,good,allocated
+VH-WH-B14-0002,18090038607691,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B14-0001,18090038607692,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-B14-0001,T62CGD#18FH2#004438,Onida,CRYSTAL,Washing Machine,Appliances,,,good,allocated
+VH-TV-B14-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-ST-B14-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B14-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B14-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SF-B14-0001,,,,Sofa,Furniture,,,good,allocated
+VH-SS-B14-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-B14-0001,,hindustan unilever Pure,,RO Water Purifier,Kitchen & Dining,,,good,allocated
+VH-RF-B14-0001,BS0337E7201T0J9F0005,Haier,HRD-1703SR-E /2018,Refrigerator,Appliances,,,good,allocated
+VH-MW-B14-0001,245PU;CEWU 00488,,NN-ST266BFDG,Microwave Oven,Appliances,,,good,allocated
+VH-MA-B14-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B14-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B14-0003,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B14-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B14-0001,,,,Mattress,Furniture,,,new,allocated
+VH-IS-B14-0001,BB03KC1376A4084,Impex,OMEGA H2A,Induction Stove,Appliances,,,good,allocated
+VH-FN-B14-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B14-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B14-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B14-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-DT-B14-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-CB-B14-0009,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B14-0008,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B14-0007,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B14-0006,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B14-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B14-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B14-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B14-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B14-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-B14-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B14-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B14-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B14-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B14-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CD-B14-0001,,,,Cloth Dryer Stand,Furniture,,,good,allocated
+VH-CH-B14-0004,,,,Chair,Furniture,,,good,allocated
+VH-CH-B14-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-B14-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-B14-0001,,,,Chair,Furniture,,,good,allocated
+VH-AC-B14-0003,A2551R03704,Vestar,VASKR123X5H/2018,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B14-0002,A2551R03088,Vestar,VASKR123X5H/2018,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B14-0001,SE190O29414,Hitachi,RSG312HCDOBW,Air Conditioner,Appliances,,,good,allocated
+VH-WH-B13-0002,18090038607693,Venus,,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B13-0001,Not Available,Venus,,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-B13-0001,,Samsung,WA70A4002GS/2025,Washing Machine,Appliances,2025-07-29 00:00:00+00:00,15290.0,good,allocated
+VH-TV-B13-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-ST-B13-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B13-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SF-B13-0001,,,,Sofa,Furniture,,,good,allocated
+VH-SS-B13-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-B13-0001,,Adyar Mars,,RO Water Purifier,Kitchen & Dining,2025-01-18 00:00:00+00:00,7000.0,good,allocated
+VH-RF-B13-0001,,Godrej,RD EDGE 205 TRF 2.2/2019,Refrigerator,Appliances,,,good,allocated
+VH-MW-B13-0001,256PULCTEU03036,Panasonic,NN-ST26JMFDG,Microwave Oven,Appliances,2025-07-29 00:00:00+00:00,6289.0,good,allocated
+VH-MA-B13-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B13-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B13-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-B13-0001,,,,Mattress,Furniture,,,good,allocated
+VH-IS-B13-0001,LIH08249127797,Judge,Optima Plus,Induction Stove,Appliances,,,good,allocated
+VH-FN-B13-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B13-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B13-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-DT-B13-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-CB-B13-0008,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B13-0007,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B13-0006,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B13-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B13-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B13-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B13-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B13-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-B13-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B13-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B13-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B13-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CD-B13-0001,,,,Cloth Dryer Stand,Furniture,,,good,allocated
+VH-CH-B13-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-B13-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-B13-0001,,,,Chair,Furniture,,,good,allocated
+VH-AC-B13-0002,S2586R01318,Vestar,VASKR123AMT,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B13-0001,SEB0A3514X5,Hitachi,RAS.B312PCAIBA 1 /2025,Air Conditioner,Appliances,,,good,allocated
+VH-WH-B12-0002,18090038607690,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B12-0001,Not Available,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-B12-0001,03WH5PBMA03653A,Samsung,WA60M4100HY 01,Washing Machine,Appliances,,,good,allocated
+VH-ST-B12-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B12-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B12-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SF-B12-0001,,,,Sofa,Furniture,,,good,allocated
+VH-SS-B12-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-B12-0001,,hindustan unilever Pure,,RO Water Purifier,Kitchen & Dining,,,good,allocated
+VH-RF-B12-0001,BS0337E7201T0J9F0175,Haier,HRD-1703/2018,Refrigerator,Appliances,,,good,allocated
+VH-MW-B12-0001,Not Available,IFB,17PM-MEC1,Microwave Oven,Appliances,,,good,allocated
+VH-MA-B12-0005,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B12-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B12-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B12-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B12-0001,,,,Mattress,Furniture,,,new,allocated
+VH-IS-B12-0001,E201112147348,Bajaj,Majesty Slim (740076),Induction Stove,Appliances,,,good,allocated
+VH-FN-B12-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B12-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B12-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B12-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-DT-B12-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-CB-B12-0009,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B12-0008,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B12-0007,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B12-0006,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B12-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B12-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B12-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B12-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B12-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-B12-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B12-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B12-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B12-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B12-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CH-B12-0001,,,,Chair,Furniture,,,good,allocated
+VH-AC-B12-0003,GP-A1S12P22PIDUEXA03395,Blue Star,GP-A1S12P22PIDU,Air Conditioner,Appliances,,,new,allocated
+VH-AC-B12-0002,,Vestar,VASKR123X5H/2018,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B12-0001,A2551R03639,Vestar,VASKR123X5H/2018,Air Conditioner,Appliances,,,good,allocated
+VH-WH-B11-0003,19020038613732,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B11-0002,19020038613733,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-B11-0001,19020038613734,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-B11-0001,03WH5PBM503659H,Samsung,WA60M4100HY 01,Washing Machine,Appliances,,,good,allocated
+VH-TV-B11-0001,,Baron,,TV,Electrical Systems,,,good,allocated
+VH-ST-B11-0004,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B11-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B11-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-B11-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SF-B11-0001,,,,Sofa,Furniture,,,good,allocated
+VH-RO-B11-0001,RPI11 00033430,hindustan unilever Pure,,RO Water Purifier,Kitchen & Dining,,,good,allocated
+VH-RF-B11-0001,,Samsung,RR20N1Y1ZSE/HL/2019,Refrigerator,Appliances,,,good,allocated
+VH-MW-B11-0001,0BFE7WDM502842J,Samsung,MS23K3513AK/TL/MAY-2019,Microwave Oven,Appliances,,,good,allocated
+VH-MA-B11-0006,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B11-0005,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B11-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B11-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B11-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-B11-0001,,,,Mattress,Furniture,,,good,allocated
+VH-IS-B11-0001,BB03KC1376A4080,Impex,OMEGAH2A,Induction Stove,Appliances,,,good,allocated
+VH-FN-B11-0005,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B11-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B11-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B11-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-B11-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-CB-B11-0008,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B11-0007,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B11-0006,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B11-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B11-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B11-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B11-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-B11-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-B11-0006,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B11-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B11-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B11-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B11-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-B11-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CH-B11-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-B11-0001,,,,Chair,Furniture,,,good,allocated
+VH-AC-B11-0004,4552356A19DA90175,Voltas,4502517/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B11-0003,4552356A19DA90114,Voltas,4502517/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B11-0002,4552355a19db00923,Voltas,4502515/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-B11-0001,4552356A19DA90194,Voltas,4502517/2019,Air Conditioner,Appliances,,,good,allocated
+VH-WH-A44-0003,19020038613680,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-A44-0002,19020038614027,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-A44-0001,,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-A44-0001,03WH5PBM504093J,Samsung,WA60M4100HY/01/TL,Washing Machine,Appliances,,,good,allocated
+VH-TV-A44-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-ST-A44-0004,,,,Study Table,Furniture,,,good,allocated
+VH-ST-A44-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-A44-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-A44-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SS-A44-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-A44-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2024-02-28 00:00:00+00:00,7000.0,good,allocated
+VH-RF-A44-0001,,Samsung,RR20N1Y1ZSE/HL/2019,Refrigerator,Appliances,,,good,allocated
+VH-MW-A44-0001,0BFE7WDM502778J,Samsung,MS23K3513AK/TL,Microwave Oven,Appliances,,,good,allocated
+VH-MA-A44-0006,,,,Mattress,Furniture,,,new,allocated
+VH-MA-A44-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MA-A44-0004,,,,Mattress,Furniture,,,new,allocated
+VH-MA-A44-0003,,,,Mattress,Furniture,,,new,allocated
+VH-MA-A44-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-A44-0001,,,,Mattress,Furniture,,,new,allocated
+VH-IS-A44-0001,BB03KC1376A41D89,Impex,Optima Plus,Induction Stove,Appliances,,,good,allocated
+VH-FN-A44-0005,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A44-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A44-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A44-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A44-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-DT-A44-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-CB-A44-0006,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A44-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A44-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A44-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A44-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A44-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-A44-0006,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A44-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A44-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A44-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A44-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A44-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CH-A44-0004,,,,Chair,Furniture,,,good,allocated
+VH-CH-A44-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-A44-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-A44-0001,,,,Chair,Furniture,,,good,allocated
+VH-BS-A44-0005,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-A44-0004,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-A44-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-A44-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-A44-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-AC-A44-0004,4552355A19DB01166,,Voltas 123 DZX,Air Conditioner,Appliances,,,good,allocated
+VH-AC-A44-0003,,Voltas,4502515/2019,Air Conditioner,Appliances,,,good,allocated
+VH-AC-A44-0002,4552355A19DB01533,Voltas,Voltas 123 DZX,Air Conditioner,Appliances,,,good,allocated
+VH-AC-A44-0001,4552355A19DB01177,Voltas.beko,Voltas 123 DZX,Air Conditioner,Appliances,,,good,allocated
+VH-WH-A41-0004,,Haier,ES15V-E1/2018,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-A41-0003,,,,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-A41-0002,,Haier,ES15V-E1/2018,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-A41-0001,,Haier,ES15V-E1/2018,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-A41-0001,1200451,Voltas.beko,WTL6004UEA/BPBPOA,Washing Machine,Appliances,,,good,allocated
+VH-ST-A41-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-A41-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-A41-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SF-A41-0001,,,,Sofa,Furniture,,,good,allocated
+VH-SS-A41-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-A41-0002,,,,RO Water Purifier,Kitchen & Dining,2026-03-23 00:00:00+00:00,7000.0,good,allocated
+VH-RO-A41-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2024-04-02 00:00:00+00:00,7000.0,new,allocated
+VH-RF-A41-0001,,Samsung,RR24C2823CU/NL/2024,Refrigerator,Appliances,,,good,allocated
+VH-MW-A41-0001,MEZ67416519,LG,MS2043DB,Microwave Oven,Appliances,,,good,allocated
+VH-MA-A41-0008,,,,Mattress,Furniture,,,good,allocated
+VH-MA-A41-0007,,,,Mattress,Furniture,,,good,allocated
+VH-MA-A41-0006,,,,Mattress,Furniture,,,good,allocated
+VH-MA-A41-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MA-A41-0004,,,,Mattress,Furniture,,,new,allocated
+VH-MA-A41-0003,,,,Mattress,Furniture,,,new,allocated
+VH-MA-A41-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-A41-0001,,,,Mattress,Furniture,,,new,allocated
+VH-IS-A41-0001,LI02247947925,Judge,Optima Plus,Induction Stove,Appliances,,,good,allocated
+VH-FN-A41-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A41-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A41-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A41-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-DT-A41-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-CB-A41-0006,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A41-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A41-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A41-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A41-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A41-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-A41-0006,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A41-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A41-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A41-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A41-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A41-0001,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CH-A41-0005,,,,Chair,Furniture,,,good,allocated
+VH-CH-A41-0004,,,,Chair,Furniture,,,good,allocated
+VH-CH-A41-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-A41-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-A41-0001,,,,Chair,Furniture,,,good,allocated
+VH-AC-A41-0004,,Daikin,,Air Conditioner,Appliances,,,good,allocated
+VH-AC-A41-0003,,,,Air Conditioner,Appliances,,,good,allocated
+VH-AC-A41-0002,,Daikin,FTL35EV16W1+RL35TV16W/2018,Air Conditioner,Appliances,,,good,allocated
+VH-AC-A41-0001,0000141,Daikin,FTL35TV16W1,Air Conditioner,Appliances,,,good,allocated
+VH-WH-A24-0002,190700386034,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-A24-0001,19070038603295,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-A24-0001,03WH5PBMA03711H,Samsung,WA60M4100HY 01,Washing Machine,Appliances,,,good,allocated
+VH-WD-A24-0001,,,Single Door Wardrobe With Mirror,Wardrobe,Furniture,2025-06-17 00:00:00+00:00,4194.92,good,allocated
+VH-ST-A24-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-A24-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-A24-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SF-A24-0001,,,,Sofa,Furniture,,,good,allocated
+VH-SS-A24-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-A24-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2025-05-26 00:00:00+00:00,7000.0,good,allocated
+VH-RF-A24-0001,,Samsung,RR20C1Y23SB/HL/2024,Refrigerator,Appliances,,,good,allocated
+VH-MW-A24-0001,247PULCTEU02068,Panasonic,NN-ST26JMFDG,Microwave Oven,Appliances,,,good,allocated
+VH-MA-A24-0006,,,,Mattress,Furniture,,,new,allocated
+VH-MA-A24-0005,,,,Mattress,Furniture,,,good,allocated
+VH-MA-A24-0004,,,,Mattress,Furniture,,,good,allocated
+VH-MA-A24-0003,,,,Mattress,Furniture,,,good,allocated
+VH-MA-A24-0002,,,,Mattress,Furniture,,,good,allocated
+VH-MA-A24-0001,,,,Mattress,Furniture,,,new,allocated
+VH-IS-A24-0001,MB50204D25000857,Judge,Optima Plus,Induction Stove,Appliances,,,good,allocated
+VH-FN-A24-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A24-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A24-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A24-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-DT-A24-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-CB-A24-0006,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A24-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A24-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A24-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A24-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A24-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-A24-0007,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A24-0006,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A24-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A24-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A24-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A24-0002,,,COT 3x6,Cot (Bed Frame),Furniture,2025-06-17 00:00:00+00:00,5950.0,good,allocated
+VH-CO-A24-0001,,,COT 3x6,Cot (Bed Frame),Furniture,2025-06-17 00:00:00+00:00,5950.0,good,allocated
+VH-CH-A24-0004,,,,Chair,Furniture,,,good,allocated
+VH-CH-A24-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-A24-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-A24-0001,,,,Chair,Furniture,,,good,allocated
+VH-BS-A24-0003,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-A24-0002,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-BS-A24-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-AC-A24-0003,BCX0P9AM800068K,Samsung,AR12RG3BAWKNNA,Air Conditioner,Appliances,,,good,allocated
+VH-AC-A24-0002,BCX0P9AM800007J,Samsung,AR12RG3BAWKNNA,Air Conditioner,Appliances,,,good,allocated
+VH-AC-A24-0001,BCX0P9AM800059W,Samsung,AR12RG3BAWKNNA,Air Conditioner,Appliances,,,good,allocated
+VH-WH-A23-0003,19070038603294,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-A23-0002,,,,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-A23-0001,19070038603297,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-A23-0001,05A05PBW204245T,,WA70BG4441BGTL,Washing Machine,Appliances,,,good,allocated
+VH-ST-A23-0003,,,,Study Table,Furniture,,,good,allocated
+VH-ST-A23-0002,,,,Study Table,Furniture,,,good,allocated
+VH-ST-A23-0001,,,,Study Table,Furniture,,,good,allocated
+VH-SF-A23-0001,,,,Sofa,Furniture,,,good,allocated
+VH-SS-A23-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-RO-A23-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2023-03-30 00:00:00+00:00,7000.0,good,allocated
+VH-RF-A23-0001,,Samsung,RR20N1Y1ZSE/HL/2019,Refrigerator,Appliances,,,good,allocated
+VH-MW-A23-0001,,Croma,CRM2025/2025081900243,Microwave Oven,Appliances,,,good,allocated
+VH-MA-A23-0005,,,,Mattress,Furniture,,,new,allocated
+VH-MA-A23-0004,,,,Mattress,Furniture,,,new,allocated
+VH-MA-A23-0003,,,,Mattress,Furniture,,,new,allocated
+VH-MA-A23-0002,,,,Mattress,Furniture,,,new,allocated
+VH-MA-A23-0001,,,,Mattress,Furniture,,,new,allocated
+VH-IS-A23-0001,LIH08249127796,Judge,Optima Plus,Induction Stove,Appliances,2025-05-05 00:00:00+00:00,1890.0,good,allocated
+VH-FN-A23-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A23-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A23-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A23-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-DT-A23-0001,,,,Dining Table,Furniture,,,good,allocated
+VH-CB-A23-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A23-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A23-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A23-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A23-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-A23-0005,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A23-0004,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A23-0003,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A23-0002,,,,Cot (Bed Frame),Furniture,,,good,allocated
+VH-CO-A23-0001,,,COT 3x6,Cot (Bed Frame),Furniture,2025-06-17 00:00:00+00:00,5950.0,good,allocated
+VH-CH-A23-0005,,,,Chair,Furniture,,,good,allocated
+VH-CH-A23-0004,,,,Chair,Furniture,,,good,allocated
+VH-CH-A23-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-A23-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-A23-0001,,,,Chair,Furniture,,,good,allocated
+VH-BS-A23-0001,,,,Bedside Table,Soft Furnishing,,,good,allocated
+VH-AC-A23-0003,BCX0P9AM800050H,Samsung,AR12RG3BAWKNNA,Air Conditioner,Appliances,,,good,allocated
+VH-AC-A23-0002,BCX0P9AM800031N,Samsung,AR12RG3BAWKNNA,Air Conditioner,Appliances,,,good,allocated
+VH-AC-A23-0001,BCX0P9AM80071A,Samsung,AR12RG3BAWKNNA,Air Conditioner,Appliances,,,good,allocated
+VH-WM-A22-0001,,,Samsung WA70A4002GS/TL 7kg Diamond Drum,Washing Machine,Appliances,2025-07-29 00:00:00+00:00,15290.0,good,allocated
+VH-WD-A22-0005,,,Single Door Wardrobe,Wardrobe,Furniture,2025-08-02 00:00:00+00:00,4800.0,good,allocated
+VH-WD-A22-0004,,,Single Door Wardrobe,Wardrobe,Furniture,2025-08-02 00:00:00+00:00,4800.0,good,allocated
+VH-WD-A22-0003,,,Single Door Wardrobe,Wardrobe,Furniture,2025-08-02 00:00:00+00:00,4800.0,good,allocated
+VH-WD-A22-0002,,,Single Door Wardrobe,Wardrobe,Furniture,2025-08-02 00:00:00+00:00,4800.0,good,allocated
+VH-WD-A22-0001,,,Single Door Wardrobe,Wardrobe,Furniture,2025-08-02 00:00:00+00:00,4800.0,good,allocated
+VH-ST-A22-0003,,,Study Table 3x6,Study Table,Furniture,2025-08-02 00:00:00+00:00,3150.0,good,allocated
+VH-ST-A22-0002,,,Study Table 3x6,Study Table,Furniture,2025-08-02 00:00:00+00:00,3150.0,good,allocated
+VH-ST-A22-0001,,,Study Table 3x6,Study Table,Furniture,2025-08-02 00:00:00+00:00,3150.0,good,allocated
+VH-SF-A22-0001,,,Marvel Sofa,Sofa,Furniture,2025-08-04 00:00:00+00:00,7800.0,good,allocated
+VH-RO-A22-0001,,,,RO Water Purifier,Kitchen & Dining,2025-08-10 00:00:00+00:00,7000.0,good,allocated
+VH-RF-A22-0001,,,Samsung RT20C3X22S8/HL 183L 4★ Digital Inverter,Refrigerator,Appliances,2025-07-29 00:00:00+00:00,15290.0,good,allocated
+VH-MW-A22-0001,,,Panasonic NN-ST26JMFDG 20L Silver,Microwave Oven,Appliances,2025-07-29 00:00:00+00:00,6289.0,good,allocated
+VH-MA-A22-0005,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,good,allocated
+VH-MA-A22-0004,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,good,allocated
+VH-MA-A22-0003,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,good,allocated
+VH-MA-A22-0002,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,good,allocated
+VH-MA-A22-0001,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,good,allocated
+VH-IS-A22-0001,MB50204B25003063,,,Induction Stove,Appliances,2025-08-08 00:00:00+00:00,1890.0,good,allocated
+VH-DT-A22-0001,,,Dining Table,Dining Table,Furniture,2025-09-09 00:00:00+00:00,4600.0,good,allocated
+VH-CO-A22-0005,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,good,allocated
+VH-CO-A22-0004,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,good,allocated
+VH-CO-A22-0003,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,good,allocated
+VH-CO-A22-0002,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,good,allocated
+VH-CO-A22-0001,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,good,allocated
+VH-CT-A22-0001,,,Center Table,Center Table,Furniture,2025-08-02 00:00:00+00:00,1450.0,good,allocated
+VH-AC-A22-0001,,,Hitachi AC I/O 1.0T 3FS SENPAI RAS.B312PCAIBA1,Air Conditioner,Appliances,2025-07-30 00:00:00+00:00,31500.0,good,allocated
+VH-AL-A22-0001,,,,ACCL Device,Electrical Systems,2025-07-22 00:00:00+00:00,8840.0,good,allocated
+VH-WH-A12-0003,Not Availble,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-A12-0002,,,,Water Heater,Electrical Systems,,,good,allocated
+VH-WH-A12-0001,19070038603635,Venus,3P30,Water Heater,Electrical Systems,,,good,allocated
+VH-WM-A12-0001,04KT5PBY401795N,Samsung,WA70A4002GS/2025,Washing Machine,Appliances,2025-07-29 00:00:00+00:00,15290.0,good,allocated
+VH-WD-A12-0005,,,Single Door Wardrobe,Wardrobe,Furniture,2025-08-02 00:00:00+00:00,4800.0,good,allocated
+VH-WD-A12-0004,,,Single Door Wardrobe,Wardrobe,Furniture,2025-08-02 00:00:00+00:00,4800.0,good,allocated
+VH-WD-A12-0003,,,Single Door Wardrobe,Wardrobe,Furniture,2025-08-02 00:00:00+00:00,4800.0,good,allocated
+VH-WD-A12-0002,,,Single Door Wardrobe,Wardrobe,Furniture,2025-08-02 00:00:00+00:00,4800.0,good,allocated
+VH-WD-A12-0001,,,Single Door Wardrobe,Wardrobe,Furniture,2025-08-02 00:00:00+00:00,4800.0,good,allocated
+VH-TV-A12-0001,,,,TV,Electrical Systems,,,good,allocated
+VH-ST-A12-0005,,,,Study Table,Furniture,,,good,allocated
+VH-ST-A12-0004,,,,Study Table,Furniture,,,good,allocated
+VH-ST-A12-0003,,,Study Table 3x6,Study Table,Furniture,2025-08-02 00:00:00+00:00,3150.0,good,allocated
+VH-ST-A12-0002,,,Study Table 3x6,Study Table,Furniture,2025-08-02 00:00:00+00:00,3150.0,good,allocated
+VH-ST-A12-0001,,,Study Table 3x6,Study Table,Furniture,2025-08-02 00:00:00+00:00,3150.0,good,allocated
+VH-SF-A12-0001,,,Marvel Sofa,Sofa,Furniture,2025-08-04 00:00:00+00:00,7800.0,good,allocated
+VH-RO-A12-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2025-07-31 00:00:00+00:00,7000.0,new,allocated
+VH-RF-A12-0001,,Samsung,RR20C1724CU/HL/2025,Refrigerator,Appliances,2025-07-29 00:00:00+00:00,15290.0,good,allocated
+VH-MW-A12-0001,256PULCTEU04342,Panasonic,NN-ST26JMFDG,Microwave Oven,Appliances,2025-09-07 00:00:00+00:00,5740.0,good,allocated
+VH-MA-A12-0005,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,new,allocated
+VH-MA-A12-0004,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,new,allocated
+VH-MA-A12-0003,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,new,allocated
+VH-MA-A12-0002,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,good,allocated
+VH-MA-A12-0001,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,new,allocated
+VH-IS-A12-0001,MB50204B25003066,Judge,Optima Plus,Induction Stove,Appliances,2025-08-08 00:00:00+00:00,1890.0,good,allocated
+VH-FN-A12-0004,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A12-0003,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A12-0002,,,,Fan,Electrical Systems,,,good,allocated
+VH-FN-A12-0001,,,,Fan,Electrical Systems,,,good,allocated
+VH-DT-A12-0001,,,Dining Table,Dining Table,Furniture,2025-09-09 00:00:00+00:00,4600.0,good,allocated
+VH-CB-A12-0005,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A12-0004,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A12-0003,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A12-0002,,,,Cupboard,Furniture,,,good,allocated
+VH-CB-A12-0001,,,,Cupboard,Furniture,,,good,allocated
+VH-CO-A12-0005,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,good,allocated
+VH-CO-A12-0004,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,good,allocated
+VH-CO-A12-0003,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,good,allocated
+VH-CO-A12-0002,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,good,allocated
+VH-CO-A12-0001,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,good,allocated
+VH-CH-A12-0003,,,,Chair,Furniture,,,good,allocated
+VH-CH-A12-0002,,,,Chair,Furniture,,,good,allocated
+VH-CH-A12-0001,,,,Chair,Furniture,,,good,allocated
+VH-CT-A12-0001,,,Center Table,Center Table,Furniture,2025-08-02 00:00:00+00:00,1450.0,good,allocated
+VH-AC-A12-0003,SEB0A49H681,Hitachi,RAS.B312PCAIBA1,Air Conditioner,Appliances,2025-07-30 00:00:00+00:00,31500.0,good,allocated
+VH-AC-A12-0002,SEB0A74N616,Hitachi,RAS.B312PCAIBA1,Air Conditioner,Appliances,2025-07-30 00:00:00+00:00,31500.0,good,allocated
+VH-AC-A12-0001,SEA0Q606M31,Hitachi,RAS.B312PCA1BA1,Air Conditioner,Appliances,2025-07-30 00:00:00+00:00,31500.0,good,allocated
+VH-AL-A12-0001,,,,ACCL Device,Electrical Systems,2025-07-22 00:00:00+00:00,8840.0,good,allocated
+VH-WH-A11-0002,19090038606687,Venus,3P30,Water Heater,Electrical Systems,,,new,allocated
+VH-WH-A11-0001,19090038606690,Venus,3P30,Water Heater,Electrical Systems,,,new,allocated
+VH-WM-A11-0001,,Samsung,WA70A4002GS/2025,Washing Machine,Appliances,2025-07-29 00:00:00+00:00,15290.0,new,allocated
+VH-WD-A11-0004,,,Single Door Wardrobe With Mirror,Wardrobe,Furniture,2025-06-17 00:00:00+00:00,4194.92,good,allocated
+VH-WD-A11-0003,,,Single Door Wardrobe,Wardrobe,Furniture,2025-08-02 00:00:00+00:00,4800.0,good,allocated
+VH-WD-A11-0002,,,Single Door Wardrobe,Wardrobe,Furniture,2025-08-02 00:00:00+00:00,4800.0,good,allocated
+VH-WD-A11-0001,,,Single Door Wardrobe,Wardrobe,Furniture,2025-08-02 00:00:00+00:00,4800.0,good,allocated
+VH-SS-A12-0001,,,,Shoe Stand,Furniture,,,good,allocated
+VH-ST-A11-0005,,,,Study Table,Furniture,,,new,allocated
+VH-ST-A11-0004,,,,Study Table,Furniture,,,new,allocated
+VH-ST-A11-0003,,,Study Table 3x6,Study Table,Furniture,2025-08-02 00:00:00+00:00,3150.0,good,allocated
+VH-ST-A11-0002,,,Study Table 3x6,Study Table,Furniture,2025-08-02 00:00:00+00:00,3150.0,good,allocated
+VH-ST-A11-0001,,,Study Table 3x6,Study Table,Furniture,2025-08-02 00:00:00+00:00,3150.0,new,allocated
+VH-SF-A11-0001,,,Marvel Sofa,Sofa,Furniture,2025-08-04 00:00:00+00:00,7800.0,new,allocated
+VH-RO-A11-0001,,Aqua Mars,,RO Water Purifier,Kitchen & Dining,2025-07-31 00:00:00+00:00,7000.0,new,allocated
+VH-RF-A11-0001,,Samsung,RR20C1724CU/HL/2025,Refrigerator,Appliances,2025-07-29 00:00:00+00:00,15290.0,new,allocated
+VH-MW-A11-0001,255PULCTFU02851,Panasonic,NN-SM25JBFDG,Microwave Oven,Appliances,2025-07-29 00:00:00+00:00,6289.0,new,allocated
+VH-MA-A11-0005,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,new,allocated
+VH-MA-A11-0004,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,new,allocated
+VH-MA-A11-0003,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,new,allocated
+VH-MA-A11-0002,,,Duroflex Coir Mattress,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,new,allocated
+VH-MA-A11-0001,,,Duroflex LIVE2IN1172003600GREYFP Coir,Mattress,Furniture,2025-08-05 00:00:00+00:00,4599.65,new,allocated
+VH-IS-A11-0001,MB41134F25042085,Prestige,,Induction Stove,Appliances,2025-08-13 00:00:00+00:00,1890.0,new,allocated
+VH-FN-A11-0004,,,,Fan,Electrical Systems,,,new,allocated
+VH-FN-A11-0003,,,,Fan,Electrical Systems,,,new,allocated
+VH-FN-A11-0002,,,,Fan,Electrical Systems,,,new,allocated
+VH-FN-A11-0001,,,,Fan,Electrical Systems,,,new,allocated
+VH-DT-A11-0001,,,Dining Table,Dining Table,Furniture,2025-09-09 00:00:00+00:00,4600.0,new,allocated
+VH-CB-A11-0003,,,,Cupboard,Furniture,,,new,allocated
+VH-CB-A11-0002,,,,Cupboard,Furniture,,,new,allocated
+VH-CB-A11-0001,,,,Cupboard,Furniture,,,new,allocated
+VH-CO-A11-0005,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,new,allocated
+VH-CO-A11-0004,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,new,allocated
+VH-CO-A11-0003,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,new,allocated
+VH-CO-A11-0002,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,new,allocated
+VH-CO-A11-0001,,,COT 3x6,Cot (Bed Frame),Furniture,2025-08-02 00:00:00+00:00,6950.0,new,allocated
+VH-CH-A11-0005,,,,Chair,Furniture,,,new,allocated
+VH-CH-A11-0004,,,,Chair,Furniture,,,new,allocated
+VH-CH-A11-0003,,,,Chair,Furniture,,,new,allocated
+VH-CH-A11-0002,,,,Chair,Furniture,,,new,allocated
+VH-CH-A11-0001,,,,Chair,Furniture,,,new,allocated
+VH-CT-A11-0001,,,Center Table,Center Table,Furniture,2025-08-02 00:00:00+00:00,1450.0,good,allocated
+VH-AC-A11-0003,SEB0AZ52944,Hitachi,RAS.B312PCAIBA1,Air Conditioner,Appliances,2025-07-30 00:00:00+00:00,31500.0,new,allocated
+VH-AC-A11-0002,SEB0CY98738,Hitachi,RAS.B312PCAIBA1,Air Conditioner,Appliances,2025-07-30 00:00:00+00:00,31500.0,new,allocated
+VH-AC-A11-0001,SEB0C2745U3,Hitachi,RAS.B312PCAIBA1,Air Conditioner,Appliances,2025-07-30 00:00:00+00:00,31500.0,new,allocated

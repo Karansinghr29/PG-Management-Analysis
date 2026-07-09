@@ -1,0 +1,12 @@
+{
+  "problem": "late_payment",
+  "task": "classification",
+  "best_model": "NaiveBayes",
+  "trained_at": "2026-07-08 12:53 UTC",
+  "n_rows": 6675,
+  "n_features": 16,
+  "training_duration_sec": 30.5,
+  "train_window": "2023-04 .. 2026-07",
+  "validation": "chronological 80/20 split + TimeSeriesSplit CV",
+  "model_version": "v20260708.1253"
+}
