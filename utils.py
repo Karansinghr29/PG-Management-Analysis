@@ -10,9 +10,17 @@ import config
 # --------------------------------------------------------------------------- #
 # Loading
 # --------------------------------------------------------------------------- #
+from pathlib import Path
+
 def load_raw(name: str) -> pd.DataFrame:
     """Load one raw table by its business name (see config.RAW_FILES)."""
     path = config.RAW_DIR / config.RAW_FILES[name]
+
+    print("=" * 50)
+    print("Looking for file:", path)
+    print("File exists:", Path(path).exists())
+    print("=" * 50)
+
     return pd.read_csv(path)
 
 
