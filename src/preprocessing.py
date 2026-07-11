@@ -114,3 +114,13 @@ if __name__ == "__main__":
         out = config.OUT_DIR / f"clean_{name}.csv"
         df.to_csv(out, index=False)
         print(f"{name:14} -> {out.name:26} {df.shape}")
+
+
+
+
+
+
+
+
+
+
